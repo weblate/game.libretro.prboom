@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="prboom-resolution" values="320x200|640x400|960x600|1280x800|1600x1000|1920x1200" default="320x200"/>
+		<setting label="30001" type="select" id="prboom-mouse_on" values="disabled|enabled" default="disabled"/>
+		<setting label="30002" type="select" id="prboom-resolution" values="320x200|640x400|960x600|1280x800|1600x1000|1920x1200" default="320x200"/>
 	</category>
 </settings>

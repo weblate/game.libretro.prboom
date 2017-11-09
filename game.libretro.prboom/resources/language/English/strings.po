@@ -21,6 +21,10 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
+msgid "Mouse active when using Gamepad"
+msgstr ""
+
+msgctxt "#30002"
 msgid "Internal resolution"
 msgstr ""
 

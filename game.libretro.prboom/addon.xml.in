@@ -12,11 +12,9 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>wad|iwad|pwad</extensions>
+		<extensions>wad|iwad</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
-		<supports_keyboard>true</supports_keyboard>
-		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Doom (PrBoom) v2.5.0</summary>
@@ -28,7 +26,7 @@ If you don&#39;t own any of the Doom games, get the shareware doom1.wad from doo
 
 Additionally it needs the prboom.wad from https://github.com/libretro/libretro-prboom/raw/master/prboom.wad copied to the game directory.
 
-Supported files: .wad, .iwad, .pwad</description>
+Supported files: .wad, .iwad</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>

@@ -21,10 +21,14 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Mouse active when using Gamepad"
+msgid "Look on parent folders for IWADs"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Internal resolution"
+msgid "Mouse active when using Gamepad"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Internal resolution (restart)"
 msgstr ""
 

@@ -43,4 +43,3 @@ msgstr ""
 msgctxt "#30006"
 msgid "Internal resolution (restart)"
 msgstr ""
-

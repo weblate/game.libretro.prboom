@@ -6,6 +6,6 @@
 		<setting label="30003" type="select" id="prboom-menu_back_button" values="A|B|X|Y" default="A"/>
 		<setting label="30004" type="select" id="prboom-menu_enter_button" values="B|X|Y|A" default="B"/>
 		<setting label="30005" type="select" id="prboom-mouse_on" values="disabled|enabled" default="disabled"/>
-		<setting label="30006" type="select" id="prboom-resolution" values="320x200|640x400|960x600|1280x800|1600x1000|1920x1200" default="320x200"/>
+		<setting label="30006" type="select" id="prboom-resolution" values="320x200|640x400|960x600|1280x800|1600x1000|1920x1200|2240x1400|2560x1600" default="320x200"/>
 	</category>
 </settings>

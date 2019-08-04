@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.prboom"
 		name="Doom (PrBoom)"
-		version="2.5.0.5"
+		version="2.5.0.6"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,7 +12,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>wad|iwad|pwad</extensions>
+		<extensions>wad|iwad|pwad|lmp</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
@@ -26,7 +26,7 @@ If you don&#39;t own any of the Doom games, get the shareware doom1.wad from doo
 
 Additionally it needs the prboom.wad from https://github.com/libretro/libretro-prboom/raw/master/prboom.wad copied to the game directory.
 
-Supported files: .wad, .iwad, .pwad</description>
+Supported files: .wad, .iwad, .pwad, .lmp</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.prboom</source>

@@ -35,3 +35,7 @@ msgstr ""
 msgctxt "#30004"
 msgid "Internal resolution (restart)"
 msgstr ""
+
+msgctxt "#30005"
+msgid "Rumble Effects"
+msgstr ""
